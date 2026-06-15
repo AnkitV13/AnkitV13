@@ -64,9 +64,6 @@ Building scalable web applications, backend systems, and AI-powered products.
 ### 🤖 Multi-Agent Research System
 Research assistant capable of planning, searching, reasoning, and generating reports using multiple AI agents.
 
-### ⚡ Full Stack Boilerplate
-Production-ready React + Node.js + PostgreSQL + Prisma starter template.
-
 ---
 
 ## ⭐ Featured Projects
