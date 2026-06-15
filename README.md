@@ -1,22 +1,151 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]()
 <h1 align="center">Hi 👋, I'm Ankit Vashishth</h1>
-<h3 align="center">A passionate Full-Stack developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitv13&label=Profile%20views&color=0e75b6&style=flat" alt="ankitv13" /> </p>
+<h3 align="center">
+Full Stack Software Engineer | React.js | Node.js | TypeScript | GenAI Enthusiast
+</h3>
 
-- 📫 How to reach me **ankitvashishth2000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankit-vashishth-90759b197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-vashishth-90759b197" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications, backend systems, and AI-powered products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://linkedin.com/in/ankit-vashishth-90759b197">LinkedIn</a> •
+<a href="mailto:ankitvashishth2000@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitv13&show_icons=true&locale=en&layout=compact" alt="ankitv13" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitv13&show_icons=true&locale=en" alt="ankitv13" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitv13&" alt="ankitv13" /></p>
+- 💻 Full Stack Software Engineer with 3+ years of experience building enterprise applications
+- ⚛️ Strong expertise in React.js, TypeScript, Redux, and modern frontend architectures
+- 🔧 Building scalable backend services using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma
+- 🏗️ Experienced in Micro Frontend Architecture, REST APIs, Authentication, and Performance Optimization
+- 🤖 Currently exploring GenAI, AI Agents, RAG Systems, and LLM-powered applications
+- 🎯 Preparing for SDE-2 Full Stack and AI Engineering opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### AI / GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-10A37F?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+
+---
+
+## 🔨 Currently Building
+
+### 🚀 Samparq
+AI-powered lead follow-up automation platform for Indian SMEs.
+
+### 🤖 Multi-Agent Research System
+Research assistant capable of planning, searching, reasoning, and generating reports using multiple AI agents.
+
+### ⚡ Full Stack Boilerplate
+Production-ready React + Node.js + PostgreSQL + Prisma starter template.
+
+---
+
+## ⭐ Featured Projects
+
+### Enterprise Workflow Platform
+- Developed business-critical workflows for enterprise users
+- Improved application performance and scalability
+- Implemented reusable component architecture and optimized rendering
+
+### AI Research Assistant
+- Built multi-agent workflows
+- Integrated LLMs with retrieval pipelines
+- Automated report generation and knowledge extraction
+
+### Lead Follow-Up Automation
+- Automated lead engagement workflows
+- CRM-ready architecture
+- AI-assisted customer communication
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Backend Engineering
+- System Design
+- Distributed Systems
+- AI Agents
+- LLM Engineering
+- Retrieval Augmented Generation (RAG)
+- Vector Databases
+- LangGraph
+
+---
+
+## 🧠 Core Engineering Skills
+
+- Data Structures & Algorithms
+- Object-Oriented Design
+- DBMS
+- Operating Systems
+- Computer Networks
+- REST API Design
+- Authentication & Authorization
+- Scalability & Performance Optimization
+- System Design
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitv13&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitv13&theme=github-dark-blue" />
+</p>
+
+---
+
+## 🤝 Open To Opportunities
+
+I'm interested in:
+
+- Full Stack Engineer Roles
+- Backend Engineer Roles
+- Platform Engineering Roles
+- AI / GenAI Engineering Roles
+- Early Stage Startup Opportunities
+
+📫 Reach me at: **ankitvashishth2000@gmail.com**
+
+🔗 LinkedIn: **https://linkedin.com/in/ankit-vashishth-90759b197**
+
+---
+
+<p align="center">
+  <i>"Building software that scales today and AI systems that power tomorrow."</i>
+</p>
