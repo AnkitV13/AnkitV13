@@ -22,7 +22,7 @@ Building scalable web applications, backend systems, and AI-powered products.
 - 🔧 Building scalable backend services using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma
 - 🏗️ Experienced in Micro Frontend Architecture, REST APIs, Authentication, and Performance Optimization
 - 🤖 Currently exploring GenAI, AI Agents, RAG Systems, and LLM-powered applications
-- 🎯 Preparing for SDE-2 Full Stack and AI Engineering opportunities
+- 🎯 Exploring SDE-2 Full Stack and AI Engineering opportunities
 
 ---
 
