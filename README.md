@@ -10,7 +10,7 @@ Building scalable web applications, backend systems, and AI-powered products.
 
 <p align="center">
 <a href="https://linkedin.com/in/ankit-vashishth-90759b197">LinkedIn</a> •
-<a href="mailto:ankitvashishth2000@gmail.com">Email</a>
+<a href="mailto:ankit.vashishth1322@gmail.com">Email</a>
 </p>
 
 ---
@@ -61,9 +61,6 @@ Building scalable web applications, backend systems, and AI-powered products.
 
 ## 🔨 Currently Building
 
-### 🚀 Samparq
-AI-powered lead follow-up automation platform for Indian SMEs.
-
 ### 🤖 Multi-Agent Research System
 Research assistant capable of planning, searching, reasoning, and generating reports using multiple AI agents.
 
@@ -83,11 +80,6 @@ Production-ready React + Node.js + PostgreSQL + Prisma starter template.
 - Built multi-agent workflows
 - Integrated LLMs with retrieval pipelines
 - Automated report generation and knowledge extraction
-
-### Lead Follow-Up Automation
-- Automated lead engagement workflows
-- CRM-ready architecture
-- AI-assisted customer communication
 
 ---
 
@@ -140,7 +132,7 @@ I'm interested in:
 - AI / GenAI Engineering Roles
 - Early Stage Startup Opportunities
 
-📫 Reach me at: **ankitvashishth2000@gmail.com**
+📫 Reach me at: **ankit.vashishth1322@gmail.com**
 
 🔗 LinkedIn: **https://linkedin.com/in/ankit-vashishth-90759b197**
 
